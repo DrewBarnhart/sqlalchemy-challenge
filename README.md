@@ -2,7 +2,7 @@
 
 This project ncorporates SQLAlchemy to do basic climate analysis and data exploration of a climate database. Specifically it utilizes SQLAlchemy ORM queries, Pandas, and Matplot lib. 
 
-The code generated s based off two files: Climate_starter.ipynb ad hawaii.sqlit
+The code generated is based from two files: Climate_starter.ipynb ad hawaii.sqlit
 
 
 Here is the listed procedure within the jupyter notebook: 
